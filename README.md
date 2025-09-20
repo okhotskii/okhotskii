@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Technical  Support Engineer in FinTech/Crypto</h3>
+<h2 align="left">Technical  Support Engineer in FinTech/Crypto.</h2>
 
 ###
 
@@ -15,7 +15,11 @@
 
 ###
 
-<h3 align="left">Here's the list of some of the technologies I use in my day-to-day work:</h3>
+<p align="left">I'm passionate about finance and crypto and I love resolving complex problems and incidents.</p>
+
+###
+
+<h3 align="left">Here's the list of some of the technologies I use in my day to day work:</h3>
 
 ###
 
