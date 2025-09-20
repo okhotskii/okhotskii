@@ -15,7 +15,7 @@
 
 ###
 
-<h3 align="left">Here's the list of some of the technologies I use in my day to day work:</h3>
+<h3 align="left">Here's the list of some of the technologies I use in my day-to-day work:</h3>
 
 ###
 
